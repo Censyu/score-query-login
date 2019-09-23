@@ -4,9 +4,8 @@
 
 Features:
 
-> 使用 ajax 获取后端数据(Json)并显示
-
-> 后端采用学校提供的 CAS 验证方式，处理、验证 ticket 后，返回 id
++ 使用 ajax 获取后端数据(Json)并显示
++ 后端采用学校提供的 CAS 验证方式，处理、验证 ticket 后，返回 id
 
 Censyu
 19/9/15
